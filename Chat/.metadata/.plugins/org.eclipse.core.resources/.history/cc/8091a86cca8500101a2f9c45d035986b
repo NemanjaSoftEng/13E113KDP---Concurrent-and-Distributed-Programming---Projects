@@ -1,0 +1,21 @@
+package chat_package;
+
+import java.net.ServerSocket;
+
+public class Server {
+
+	public static void main(String[] args) {
+		int port = Integer.parseInt(args[0]);
+		
+		try (ServerSocket listener = new ServerSocket(port);) {
+			
+			Socket client = listener.accept();
+			Chat c = new Chat(client);
+			c.communicate();
+			
+		}catch (Exception ex) {
+			ex.printStackTrace();
+		}
+	}
+
+}

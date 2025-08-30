@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://marketplace.eclipse.org/">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace | Eclipse Foundation - Explore, share, and collaborate on Eclipse Plugins, Tools, and Extensions. Discover new and popular additions to enhance your Eclipse development experience.</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>T3Tools - TTCN-3 Tools</title>
+  <link>https://marketplace.eclipse.org/content/t3tools-ttcn-3-tools</link>
+  <description>
+&lt;span&gt;T3Tools - TTCN-3 Tools&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;A critical issue in developing TTCN-3 test suites is the readability, consistency, maintainability, and documentation of Testing and Test Control Notation version 3 (TTCN-3) code...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/pmakedonski"&gt;Philip Makedonski&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2021-10-18T06:56:04-04:00" title="Monday, October 18, 2021 - 06:56"&gt;Mon, 10/18/2021 - 06:56&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Mon, 18 Oct 2021 10:56:04 +0000</pubDate>
+    <dc:creator>Philip Makedonski</dc:creator>
+    <guid isPermaLink="false">5464158 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Kantan Properties Editor</title>
+  <link>https://marketplace.eclipse.org/content/kantan-properties-editor</link>
+  <description>
+&lt;span&gt;Kantan Properties Editor&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Eclipse plugin for editing Java properties files, automatically converts non-ASCII characters to Unicode escape sequences. This plugin is a fork from Simple Properties Editor...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/agoto"&gt;Aki Goto&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-07-15T20:45:44-04:00" title="Saturday, July 15, 2023 - 20:45"&gt;Sat, 07/15/2023 - 20:45&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Sun, 16 Jul 2023 00:45:44 +0000</pubDate>
+    <dc:creator>Aki Goto</dc:creator>
+    <guid isPermaLink="false">5638208 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>GitHub Copilot - Nightly</title>
+  <link>https://marketplace.eclipse.org/content/github-copilot-nightly</link>
+  <description>
+&lt;span&gt;GitHub Copilot - Nightly&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;GitHub Copilot for Eclipse is the official plugin from GitHub, providing intelligent coding assistance. Enhance your development workflow on Eclipse with real-time suggestions and...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/gcopilot"&gt;GitHub Copilot&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2025-05-27T01:21:47-04:00" title="Tuesday, May 27, 2025 - 01:21"&gt;Tue, 05/27/2025 - 01:21&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 27 May 2025 05:21:47 +0000</pubDate>
+    <dc:creator>GitHub Copilot</dc:creator>
+    <guid isPermaLink="false">6847135 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Checkstyle Plug-in</title>
+  <link>https://marketplace.eclipse.org/content/checkstyle-plug</link>
+  <description>
+&lt;span&gt;Checkstyle Plug-in&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Checkstyle Plugin (eclipse-cs) integrates the well-known source code analyzer Checkstyle into the Eclipse IDE. Checkstyle is a development tool to help you ensure that your...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/ldderitzsch74f"&gt;Lars ödderitzsch&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2005-05-26T21:03:32-04:00" title="Thursday, May 26, 2005 - 21:03"&gt;Thu, 05/26/2005 - 21:03&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Fri, 27 May 2005 01:03:32 +0000</pubDate>
+    <dc:creator>Lars ödderitzsch</dc:creator>
+    <guid isPermaLink="false">150 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Design and Verification Tools (DVT) IDE for Verilog, SystemVerilog, Verilog-AMS, VHDL and PSS</title>
+  <link>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-verilog-systemverilog-verilog-ams-vhdl-and-pss</link>
+  <description>
+&lt;span&gt;Design and Verification Tools (DVT) IDE for Verilog, SystemVerilog, Verilog-AMS, VHDL and PSS&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with SystemVerilog, Verilog, VHDL, e Language...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/emisingname6ia"&gt;AMIQ EDA&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2006-04-19T08:00:18-04:00" title="Wednesday, April 19, 2006 - 08:00"&gt;Wed, 04/19/2006 - 08:00&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+    <dc:creator>AMIQ EDA</dc:creator>
+    <guid isPermaLink="false">192 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Auto Filling Java Call Arguments</title>
+  <link>https://marketplace.eclipse.org/content/auto-filling-java-call-arguments</link>
+  <description>
+&lt;span&gt;Auto Filling Java Call Arguments&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Auto Filling Java Call Arguments This plugin guesses the call parameters by the callee parameter names. Use Via Eclipse Content Assist Press Ctrl + Space (Content Assist) inside...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/unknowifguestindream"&gt;Tang Liang&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2025-08-26T03:56:50-04:00" title="Tuesday, August 26, 2025 - 03:56"&gt;Tue, 08/26/2025 - 03:56&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 26 Aug 2025 07:56:50 +0000</pubDate>
+    <dc:creator>Tang Liang</dc:creator>
+    <guid isPermaLink="false">7012266 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>GitLab for Eclipse</title>
+  <link>https://marketplace.eclipse.org/content/gitlab-eclipse</link>
+  <description>
+&lt;span&gt;GitLab for Eclipse&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;GitLab for Eclipse GitLab for Eclipse brings GitLab Duo’s AI-powered capabilities to your IDE, so you can code more efficiently, right where you work. This plugin integrates the...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/gitlab"&gt;GitLab Inc&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2025-01-15T10:39:37-05:00" title="Wednesday, January 15, 2025 - 10:39"&gt;Wed, 01/15/2025 - 10:39&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Wed, 15 Jan 2025 15:39:37 +0000</pubDate>
+    <dc:creator>GitLab Inc</dc:creator>
+    <guid isPermaLink="false">6528850 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>German Dictionary</title>
+  <link>https://marketplace.eclipse.org/content/german-dictionary</link>
+  <description>
+&lt;span&gt;German Dictionary&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;These Eclipse-Features add dictionaries for the German language (Deutsch). If you are using Eclipse for Java development you have to use the version for JDT, but if you are...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/pweyprecht"&gt;Pascal Weyprecht&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-05-23T04:09:33-04:00" title="Tuesday, May 23, 2023 - 04:09"&gt;Tue, 05/23/2023 - 04:09&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 23 May 2023 08:09:33 +0000</pubDate>
+    <dc:creator>Pascal Weyprecht</dc:creator>
+    <guid isPermaLink="false">5606459 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Code Sight (Security)</title>
+  <link>https://marketplace.eclipse.org/content/code-sight-security</link>
+  <description>
+&lt;span&gt;Code Sight (Security)&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Black Duck® Code Sight™ extension helps you find and fix security and quality issues in your software while you code. It can quickly identify vulnerabilities in both source...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/lpizarro2xq"&gt;luis pizarro&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-10-10T17:50:11-04:00" title="Thursday, October 10, 2024 - 17:50"&gt;Thu, 10/10/2024 - 17:50&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Thu, 10 Oct 2024 21:50:11 +0000</pubDate>
+    <dc:creator>luis pizarro</dc:creator>
+    <guid isPermaLink="false">6262500 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>P4Eclipse</title>
+  <link>https://marketplace.eclipse.org/content/p4eclipse</link>
+  <description>
+&lt;span&gt;P4Eclipse&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;New in P4Eclipse 2025.1 is support for Eclipse 4.28, 4.29, 4.30, 4.31, and 4.32. The Helix Plug-in for Eclipse seamlessly integrates the strengths of the Perforce Helix Core...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/dwongcn1"&gt;Doris Wong&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2010-09-01T11:25:08-04:00" title="Wednesday, September 1, 2010 - 11:25"&gt;Wed, 09/01/2010 - 11:25&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Wed, 01 Sep 2010 15:25:08 +0000</pubDate>
+    <dc:creator>Doris Wong</dc:creator>
+    <guid isPermaLink="false">9209 at https://marketplace.eclipse.org</guid>
+    </item>
+
+  </channel>
+</rss>
